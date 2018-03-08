@@ -1,0 +1,172 @@
+
+
+  a.method called:
+
+    public String call(int k)
+
+    {
+
+      String s = "Woof";
+
+      for(int i = 1; i < k; ++i)
+
+        s += ", woof";
+
+      return s + "!";
+
+    }
+
+   print: "Woof, woof, woof!"
+
+  
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+
+
+
+
+ b. method called:
+
+    public String toString() {
+
+      return "I'm a cat, go away!";
+
+    }
+
+Print: I'm a cat, go away!
+
+  
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+
+  c. method called: no  method "call()" in  Object's hierarchy.
+
+  wrong Concept
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+  d.  method called: Object's "toString()"
+Print : pet@75b84c92
+
+  
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+
+
+  e. method called:
+
+    public String call()
+
+    {
+
+      return "woof!";
+
+    }
+
+  print: woof!
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+  f. method called:
+
+    public String toString(String b)
+
+    {
+
+      return b + "? ... " +
+
+      "Don't waste my time.";
+
+    }
+
+  Print:Come here, kitty? ... Don't waste my time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+g.
+
+  Code:
+
+    Cat u = new Cat();
+
+    System.out.println(u.call(3));
+
+method called: no  method call .wrong Concept
+
+@@@@@@@@@@@@@@@@@@@@@@@@@
+h. method called:
+
+    public String feet()
+
+    {
+
+      return "four";
+
+    }
+
+  print: four
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+I.
+
+  
+
+    Pet r = new Dog();
+
+    System.out.println(r.call(3));
+method called: no  method call .wrong Concept
+
+
+
+
+    
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

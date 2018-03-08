@@ -1,0 +1,23 @@
+Output A:
+Woof, woof, woof!
+###################
+ Output B:
+I'm a cat, go away!
+###################
+ Output  C:   Wrong way object called
+###################
+Output  D:
+pet@75b84c92
+###################
+Output E:
+woof!
+###################
+Output F:
+Come here, kitty? ... Don't waste my time.
+###################
+Output  G:  Wrong way object called
+###################
+Output  H:
+four
+###################
+Output I:Wrong way object called
