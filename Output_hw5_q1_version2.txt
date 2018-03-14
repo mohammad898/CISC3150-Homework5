@@ -1,0 +1,7 @@
+Start Running Time 1521066231473
+Total InSide dots: 2000029760
+Total Outside dots: 1999970240
+The Ratio of areas  : 0.50000744
+
+  PI Value is =2.00002976
+Total Runing time :78133
